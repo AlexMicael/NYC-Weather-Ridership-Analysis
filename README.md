@@ -48,3 +48,6 @@ This project analyzes the impact of weather on New York City public transportati
 
 [Alex Chen Hsieh](https://www.linkedin.com/in/alex-chen-hsieh/)
 
+---
+
+*Project created as part of Introduction to Cloud Computing (CS 452) at Binghamton University, 2025*
